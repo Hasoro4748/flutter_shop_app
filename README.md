@@ -1,17 +1,8 @@
-# flutter_store_app
+# 쇼핑카트 앱 만들기 
 
-A new Flutter project.
+## 목적
+- 상품을 선택하고 옵션(색상)을 선택하여 장바구니에 넣는 앱 구현
 
-## Getting Started
+## 날짜
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_shop_app
+2025-01-13
